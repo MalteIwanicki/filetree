@@ -53,6 +53,8 @@ def generate_file_tree_html(directory_path, output_file_path):
 
     html_content = f"""
     <!DOCTYPE html>
+        <meta charset="UTF-8">
+
     <html>
     <head>
         <title>File Tree</title>
